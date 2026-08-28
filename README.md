@@ -29,5 +29,6 @@ A full-featured web application for creating, managing, and downloading professi
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/django-invoice-generator.git
+git clone https://github.com/aliza-javed/django-invoice-generator.git
+# https://github.com/aliza-javed/django-invoice-generator
 cd django-invoice-generator
